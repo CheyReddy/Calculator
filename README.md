@@ -19,4 +19,4 @@ git clone https://github.com/CheyReddy/Calculator.git
 4️⃣ Run the application
 
 👨‍💻 Author
-Venkata Chaithanya – Java Developer
+Chaithanya – Java Developer
